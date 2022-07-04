@@ -113,6 +113,7 @@ namespace WPFTreeView
             });
             #endregion
         }
+        //dkdjflksdjfl
         #endregion
         /// <summary>
         /// Find the file  or folder name form a full path
